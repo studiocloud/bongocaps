@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://test.expogency.com/sitemap.xml
+Sitemap: https://bongocaps.com/sitemap.xml
